@@ -1,5 +1,3 @@
-package CodingProblems;
-
 public class FixedPoint {
 // Given an array of n distinct integers sorted in ascending order,
 // write a function that returns a Fixed Point in the array,
